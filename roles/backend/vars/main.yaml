@@ -1,0 +1,5 @@
+LOGIN_USER: root
+LOGIN_PASSWORD: ExpenseApp1
+APP_LOCATION: /app
+COMPONENT: backend
+
