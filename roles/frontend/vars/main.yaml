@@ -1,3 +1,3 @@
-BACKEND_HOST: backend.pavanreddy.store
+BACKEND_HOST: "backend.app-{{ ENVIRONMENT }}pavanreddy.store"
 APP_LOCATION: /usr/share/nginx/html
 COMPONENT: frontend
