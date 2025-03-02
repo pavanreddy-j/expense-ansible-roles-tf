@@ -1,6 +1,5 @@
-MYSQL_HOST: "mysql-{{ COMPONENT }}.pavanreddy.store"
+#MYSQL_HOST: "mysql-{{ COMPONENT }}.pavanreddy.store"
 LOGIN_USER: root
 LOGIN_PASSWORD: ExpenseApp1
 APP_LOCATION: /app
 COMPONENT: backend
-
